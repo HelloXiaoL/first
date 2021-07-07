@@ -13,6 +13,7 @@ public class Test1 {
         System.out.println("哈哈哈");
         System.out.println("嘻嘻嘻");
         System.out.println("嘻嘻嘻");
+        System.out.println("mast test");
 
     }
 }
