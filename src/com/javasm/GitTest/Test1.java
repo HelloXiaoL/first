@@ -11,6 +11,7 @@ package com.javasm.GitTest;
 public class Test1 {
     public static void main(String[] args) {
         System.out.println("哈哈哈");
+        System.out.println("嘻嘻嘻");
 
     }
 }
