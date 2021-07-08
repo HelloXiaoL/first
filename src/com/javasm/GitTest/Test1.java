@@ -16,6 +16,7 @@ public class Test1 {
         System.out.println("mast test");
         System.out.println("嘻嘻嘻");
         System.out.println("hot-fix test");
+        System.out.println("hot-fix test");
 
     }
 }
